@@ -1,4 +1,4 @@
-# Hola, Soy Ayelén Puyos! <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/>
+# Hola, soy Ayelén Puyos! <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/>
 👩🏻‍💻 Desarrolladora Backend C# .NET SQL<br/>
 👩🏻‍🎓 Estoy a punto de terminar la carrera de Analista Programadora en la Universidad Abierta Interamericana. Para luego continuar mis estudios en el cuarto año de la Licenciatura en Tecnologías Digitales en la Universidad de Buenos Aires.<br/>
 ✨ Anteriormente trabajé en algunos de los medios de comunicación más importantes de Argentina, donde lideré equipos de producción periodística.
