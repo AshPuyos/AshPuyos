@@ -1,5 +1,5 @@
 # Hola, soy Ayelén Puyos! <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/>
-👩🏻‍💻 Desarrolladora Backend C# .NET SQL<br/><br/>
+👩🏻‍💻 Desarrolladora Fullstack Developer .NET<br/><br/>
 👩🏻‍🎓 Soy Analista Programadora egresada de la Universidad Abierta Interamericana con un promedio de 8.50. Actualmente, me desempeño como Fullstack Developer .NET en NextCommerce. Cuento con un nivel de inglés C1 y pasaporte europeo.
 <br/><br/>
 ✨ Anteriormente trabajé en algunos de los medios más importantes de Argentina, donde lideré equipos de producción periodística y comunicación. Además, tengo experiencia en redacción y generación de contenido digital para plataformas y redes sociales, lo que impulsó mi desarrollo como SEO content writer.
