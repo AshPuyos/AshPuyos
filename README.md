@@ -8,7 +8,7 @@ Me especializo en **C#, ASP.NET MVC, .NET Framework, Entity Framework, SQL Serve
 
 También trabajo con herramientas de **IA aplicada y automatización**, especialmente en flujos conversacionales, agentes para WhatsApp/Instagram e integración de APIs con plataformas de e-commerce.
 
-Antes de dedicarme al desarrollo, trabajé durante más de 8 años en medios de comunicación como **Billboard Argentina, Radio Uno y Radio Rivadavia**, donde lideré equipos de producción, coordinación periodística y contenidos digitales.
+Mi trayectoria previa en medios de comunicación incluyó roles de coordinación y gestión, participando en la planificación de programación, producción y supervisión de equipos. Esta experiencia fortaleció mis habilidades de liderazgo, comunicación, organización y relevamiento de necesidades, competencias que hoy aplico en proyectos de desarrollo de software, automatización e implementación de soluciones basadas en IA.
 
 Cuento con **inglés avanzado/C1**, pasaporte europeo y experiencia trabajando de forma remota.
 
